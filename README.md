@@ -81,7 +81,7 @@ in windows-based:
 ./gradlew.bat run
 ```
 
-#####Config
+####Config
 
 You can run with the default settings and use the provided sample orders.json file. 
 However, you if you prefer you can tweak the *kitchen-unit.conf* configuration file to change:
@@ -92,7 +92,7 @@ However, you if you prefer you can tweak the *kitchen-unit.conf* configuration f
 
 You can also change the orders.json content or simply pointing the configuration to another json file.
 
-#####Logs
+####Logs
 
 You can follow the logs on the console or you can find it at *kitchen-unit.log* file. 
 
